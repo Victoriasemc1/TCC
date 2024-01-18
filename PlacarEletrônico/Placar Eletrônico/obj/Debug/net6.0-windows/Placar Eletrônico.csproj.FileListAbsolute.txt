@@ -1,0 +1,510 @@
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\TERMINAL-24\Downloads\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu2.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Segurança.resources
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\Downloads\Placar_desing (2)\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu2.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Segurança.resources
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu2.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Segurança.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar_desing+ (1)\Placar_desing+\Placar_desing+\Placar_desing\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu2.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Listar_jogos.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Listar_jogos.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu2.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Listar_jogos.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu2.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.cadastro.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Form1.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Listar_jogos.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu2.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.JogosAgendados.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Login.resources
+C:\Users\lubea\OneDrive\Área de Trabalho\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.JogosAgendados.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Login.resources
+C:\Users\lubea\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Cadastro.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.JogosAgendados.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Login.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\Downloads\Placar Eletrônico\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Cadastro.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.JogosAgendados.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Login.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\lubea\Downloads\Placar Eletrônico FINALIZADO2\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Cadastro.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.JogosAgendados.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Login.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\luana\OneDrive\Documentos\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Cadastro.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.JogosAgendados.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Login.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\luana\Downloads\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\refint\Placar Eletrônico.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Placar Eletrônico.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.CadastrarJogos.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Cadastro.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Configuracoes.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.ConsultarJogos.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.JogosAgendados.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Login.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Menu.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Placar.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar_Eletrônico.Properties.Resources.resources
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.sourcelink.json
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.csproj.CopyComplete
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\Placar Eletrônico.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\TCC\TCC\Placar Eletrônico\Placar Eletrônico\obj\Debug\net6.0-windows\ref\Placar Eletrônico.dll
